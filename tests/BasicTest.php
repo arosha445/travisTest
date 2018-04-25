@@ -6,8 +6,8 @@ class BasicTest extends TestCase
 {
     public function testMain()
 	{
-        $this->assertEqual(getenv('testVariable'),101);
-        $this->assertEqual(getenv('testVariable'),102);
+        $this->assertEquals(getenv('testVariable'),101);
+        $this->assertEquals(getenv('testVariable'),102);
     }
 }
 
