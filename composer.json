@@ -1,0 +1,13 @@
+{
+    "name": "arosha445/travis-test",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^7.1"
+    },
+    "authors": [
+        {
+            "name": "Arosha De Silva",
+            "email": "aroshajayasanka@gmail.com"
+        }
+    ]
+}
